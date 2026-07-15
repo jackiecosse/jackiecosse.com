@@ -13,7 +13,7 @@ title                    : "Jacqueline I. Cosse"
 title_separator          : "-"
 name                     : &name "Jacqueline I. Cossee"
 description              : &description "Jackie Cosse's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://jackiecosse.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://jackiecosse.com" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jackiecosse/jackiecosse.com"
@@ -24,12 +24,12 @@ repository               : "jackiecosse/jackiecosse.com"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Hello!"
+  name             : "Jackie Cosse"
   pronouns         : "they/she# example: "she/her"  
-  bio              : "Areas of Research/Interests: Mandatory Arrest Policy; Intimate Partner and Gender Based Violence; Criminalization and Policing; Abolition Feminism; Conflations of Gender/Sex in Research; LGBTQ Communities of Color; Mixed Methods Research
+  bio              : "PhD Candidate"
   location         : "New York City"
   employer         : "NYU Silver School of Social Work"
-  uri              : # URL
+  uri              : "jackiecosse.com"
   email            : "jackie.cosse@nyu.edu" 
 
   # Academic websites
