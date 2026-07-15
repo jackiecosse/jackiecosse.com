@@ -23,7 +23,7 @@ repository               : "jackiecosse/jackiecosse.com"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Jackie Cosse"
   pronouns         : "they/she# example: "she/her"  
   bio              : "PhD Candidate"
