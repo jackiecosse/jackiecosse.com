@@ -2,10 +2,10 @@
 title: "Medicine, access, spirit, and survival: An intersectional look at concepts of health among a diverse sample of LGBTQ adults"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/2024-SSM-QRH-Cosse-et-al
+excerpt: 'Here is a short 1-2 line description about this paper.'
+date: 2024-06-01
+venue: 'Social Science and Medicine – Qualitative Research in Health'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
