@@ -1,9 +1,9 @@
 ---
 title: "“we need a r/evolution”: Transformational Resistance as a Framework in Advancing ADEI in Social Work Education"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2026-06-abolitionist-perspectives-in-SW
-excerpt: '[1-2 line paper discription TBA]'
+excerpt: '[1-2 line paper discription TBA, one line specifying use of my framework specifically here]'
 date: 2026-06-01
 venue: 'Abolitionist Perspectives in Social Work'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
