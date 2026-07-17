@@ -8,7 +8,7 @@ date: 2025-05-29
 venue: 'Schizophrenia Bulletin'
 bibtexurl: 'https://jackiecosse.com/files/citation-SB-cosse-et-al.bibtex'
 paperurl: 'https://jackiecosse.come/files/social-defeat-cosse-et-al.pdf'
-citation: 'Cosse, J. I., Amos, B. J., Prout, L., Downey, D. L., Kim, S., Secaira, S., Fedina, L., & DeVylder, J. E.  (2025). Social Defeat and Psychosis in the United States: A Replication and Critical Reconceptualization. <i>Schizophrenia Bulletin, 52</i>(2), sbaf081.'
+citation: '<b>Cosse, J.I.</b>, Amos, B. J., Prout, L., Downey, D. L., Kim, S., Secaira, S., Fedina, L., & DeVylder, J. E.  (2025). Social Defeat and Psychosis in the United States: A Replication and Critical Reconceptualization. <i>Schizophrenia Bulletin, 52</i>(2), sbaf081.'
 ---
 
 <b>Background and Hypothesis:</b> The social defeat hypothesis posits that exclusion and discrimination experienced by socially marginalized populations predict psychotic experiences (PEs), particularly when perceived as defeatist. However, its emphasis on individual-level factors may obscure the role of structural and systemic influences. This is significant for the US context, given US histories of pronounced structural racism and economic inequality. This study extends the social defeat hypothesis by examining established indicators of social defeat, along with US-specific factors that capture structural influences on individuals’ perceptions of discrimination and exclusion as defeatist.
