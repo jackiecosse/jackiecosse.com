@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Hello! This site is currently under construction. Feel free to read my bio below; otherwise, check back soon for more updates!"
+title: "Hello! This site is currently under construction, so check back soon for more updates!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+**ABOUT ME**
 
 I am a PhD candidate at the New York University Silver School of Social Work and a licensed social worker with over a decade of combined advocacy, organizing, and clinical practice experience. Built on the conviction that "we can't understand what we can't see," my research explores critical quantitative approaches to subverting the systems of power in knowledge production that invisibilize and criminalize those pushed furthest to the margins. Primarily, my work interrogates how carceral logics shape institutional responses to harm, tracing how coercion and control operate within *and across* micro, mezzo, and macro systems to criminalize survivors of intimate partner violence across intersections of race, gender, and sexuality.
 
