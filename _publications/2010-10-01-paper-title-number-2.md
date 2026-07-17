@@ -2,12 +2,12 @@
 title: "Social Defeat and Psychosis in the United States: A Replication and Critical Reconceptualization"
 collection: publications
 category: manuscripts
-permalink: /publication/schizophrenia-bulletin
+permalink: /publication/2025-05-schizophrenia-bulletin
 excerpt: 'Here is a short line or two about the paper [TBA]'
 date: 2025-05-29
 venue: 'Schizophrenia Bulletin'
 bibtexurl: 'https://jackiecosse.com/files/citation-SB-cosse-et-al.bibtex'
-paperurl: 'https://jackiecosse.come/files/social-defeat-cosse-et-al.pdf'
+paperurl: 'https://jackiecosse.com/files/social-defeat-cosse-et-al.pdf'
 citation: '<b>Cosse, J.I.</b>, Amos, B. J., Prout, L., Downey, D. L., Kim, S., Secaira, S., Fedina, L., & DeVylder, J. E.  (2025). Social Defeat and Psychosis in the United States: A Replication and Critical Reconceptualization. <i>Schizophrenia Bulletin, 52</i>(2), sbaf081.'
 ---
 
