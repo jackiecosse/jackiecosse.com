@@ -3,7 +3,7 @@ title: "Deconstructing Latinx racial paradigms : cross-cultural Deconstructing L
 collection: publications
 category: masters_thesis
 permalink: /publication/2016-cosse-masters-thesis
-excerpt: '[1-2 line description TBA]'
+excerpt: '[1-2 line description TBA]. <i>Recipient of the Smith College Alumni Association Thesis Award for Students of Color.</i>'
 date: 2016-08-01
 venue: 'Smith College School for Social Work'
 paperurl: 'https://jackiecosse.com/files/Cosse_Deconstructing_Latinx_Racial_Paradigms_2016.pdf'
