@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Coverage of First-Author Publications
-### Cosse, J.I., Amos, B. J., Prout, L., Downey, D. L., Kim, S., Secaira, S., Fedina, L., & DeVylder, J. E. (2025). Social Defeat and Psychosis in the United States: A Replication and Critical Reconceptualization. _Schizophrenia Bulletin, 52_(2), sbaf081.
+Cosse, J.I., Amos, B. J., Prout, L., Downey, D. L., Kim, S., Secaira, S., Fedina, L., & DeVylder, J. E. (2025). Social Defeat and Psychosis in the United States: A Replication and Critical Reconceptualization. _Schizophrenia Bulletin, 52_(2), sbaf081.
   - “Jackie Cosse, New York University – Rethinking Social Defeat” (October 16, 2025). _National Public Radio (NPR), “The Academic Minute.”_
   - “Systemic Social Factors May Increase the Risk of Psychotic Experiences” (June 10, 2025). _HealthDay._
     - **Syndicated by:**
@@ -24,7 +24,7 @@ redirect_from:
   - “Beyond Juneteenth: The Mental Health Crises Facing Black Youth” (June 2, 2025). _Psychiatrist.com._
   - “Experiences with Discrimination May Raise Risk of Early Psychotic Episodes.” (May 30, 2025). _NYU News._
     
-### Cosse, J., Hudson, K., & Romanelli, M. (2024). Medicine, access, spirit, and survival: An intersectional look at concepts of health among a diverse sample of LGBTQ adults. _SSM-Qualitative Research in Health, 5,_ 100395.
+Cosse, J., Hudson, K., & Romanelli, M. (2024). Medicine, access, spirit, and survival: An intersectional look at concepts of health among a diverse sample of LGBTQ adults. _SSM-Qualitative Research in Health, 5,_ 100395.
   - “An intersectional look at concepts of health among a diverse sample of LGBTQ adults.” (February 2, 2024). _Fordham GSS News._
   - “PhD Student Jackie Cosse Receives APHA Research Award.” (Nov 9, 2023). _NYU Silver Newsroom._
 
