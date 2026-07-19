@@ -23,13 +23,14 @@ redirect_from:
   - [Interview segment.](https://www.instagram.com/p/DKeqlTUNJzQ/) (June 4, 2025). _SiriusXM Doctor Radio, “Psychiatry” with Dr. Jessica Stern._
   - [“Beyond Juneteenth: The Mental Health Crises Facing Black Youth”](https://jbhe.com/2025/06/nyu-study-links-experiences-with-discrimination-to-early-psychosis-in-young-adults-of-color/) (June 2, 2025). _Psychiatrist.com._
   - [“Experiences with Discrimination May Raise Risk of Early Psychotic Episodes.”](https://www.nyu.edu/about/news-publications/news/2025/may/experiences-with-discrimination-may-raise-risk-of-psychotic-epis.html) (May 30, 2025). _NYU News._
-    
+    - **Distributed by:** [_EurekaAlert!_](https://www.eurekalert.org/news-releases/1085709) American Association for the Advancement of Science (AAAS)
+
 <b>Cosse, J., Hudson, K., & Romanelli, M. (2024). Medicine, access, spirit, and survival: An intersectional look at concepts of health among a diverse sample of LGBTQ adults. _SSM-Qualitative Research in Health, 5,_ 100395.</b>
   - [“PhD Student Jackie Cosse Receives APHA Research Award.”](https://socialwork.nyu.edu/news/2023/jackie-cosse-apha-award.html) (Nov 9, 2023). _NYU Silver Newsroom._
   - [“An intersectional look at concepts of health among a diverse sample of LGBTQ adults.”](https://gss.news.fordham.edu/faculty/an-intersectional-look-at-concepts-of-health-among-a-diverse-sample-of-lgbtq-adults/) (February 2, 2024). _Fordham GSS News._
 
 ## Additional Press & Media
-  - [“NYU Study Sees ‘Unexpectedly High’ Rates of Police Violence Against Young Adults in U.S.”](https://www.nyu.edu/about/news-publications/news/2026/april/nyu-study-sees--unexpectedly-high--rates-of-police-violence-agai.html) (April 21, 2026). NYU Silver Newsroom.
-  - [“PhD Candidate Jackie Cosse Explores Criminalization of IPV Survivors.”](https://socialwork.nyu.edu/news/2025/cosse-explores-criminalization-of-ipv-survivors.html) (October 15, 2025). NYU Silver Newsroom.
-  - “The carceral state: Incarceration and the role of social work in the system.” (Invited interview; Fall 2023). InDepth Magazine.   
+  - [“NYU Study Sees ‘Unexpectedly High’ Rates of Police Violence Against Young Adults in U.S.”](https://www.nyu.edu/about/news-publications/news/2026/april/nyu-study-sees--unexpectedly-high--rates-of-police-violence-agai.html) (April 21, 2026). _NYU News._
+  - [“PhD Candidate Jackie Cosse Explores Criminalization of IPV Survivors.”](https://socialwork.nyu.edu/news/2025/cosse-explores-criminalization-of-ipv-survivors.html) (October 15, 2025). _NYU Silver Newsroom._
+  - [“The carceral state: Incarceration and the role of social work in the system.”](https://issuu.com/smithcollegessw/docs/indepth_fall_2023/18?e=25&o=1) (Invited interview; Fall 2023). _InDepth Magazine._   
   
