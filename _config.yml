@@ -90,6 +90,13 @@ publication_category:
   masters_thesis:
     title: 'Masters Thesis'
 
+# Teaching Categories
+teaching_category:
+  courses:
+    title: 'Courses Taught'
+  guest_lectures:
+    title: 'Guest Lectures'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
