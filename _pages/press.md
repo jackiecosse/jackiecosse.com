@@ -11,18 +11,18 @@ redirect_from:
 
 ## Coverage of First-Author Publications
 <b>Cosse, J.I., Amos, B. J., Prout, L., Downey, D. L., Kim, S., Secaira, S., Fedina, L., & DeVylder, J. E. (2025). Social Defeat and Psychosis in the United States: A Replication and Critical Reconceptualization. _Schizophrenia Bulletin, 52_(2), sbaf081.</b>
-  - “Jackie Cosse, New York University – Rethinking Social Defeat” (October 16, 2025). _National Public Radio (NPR), “The Academic Minute.”_
-  - “Systemic Social Factors May Increase the Risk of Psychotic Experiences” (June 10, 2025). _HealthDay._
+  - [“Jackie Cosse, New York University – Rethinking Social Defeat”](https://www.npr.org/player/embed/fis-564572329-3937612d0077a23652a5bac638abc529/fis-564572329-3937612d0077a23652a5bac638abc529-enclosure-audio) (October 16, 2025). _National Public Radio (NPR), “The Academic Minute.”_
+  - [“Systemic Social Factors May Increase the Risk of Psychotic Experiences”](https://www.healthday.com/healthpro-news/mental-health/systemic-social-factors-may-increase-the-risk-of-psychotic-experiences) (June 10, 2025). _HealthDay._
     - **Syndicated by:**
       - _Neurology Advisor,_ June 12, 2026.
       - _Physicians Weekly,_ June 11, 2026.
       - _Modern Clinician,_ June 10, 2026.
       - _MSN,_ June 10, 2026.
       - _Drugs.com,_ June 10, 2026.
-  - “NYU Study Links Experiences with Discrimination to Early Psychosis in Young Adults of Color” (June 9, 2025). _The Journal of Blacks in Higher Education._
-  - Interview segment. (June 4, 2025). _SiriusXM Doctor Radio, “Psychiatry” with Dr. Jessica Stern._
-  - “Beyond Juneteenth: The Mental Health Crises Facing Black Youth” (June 2, 2025). _Psychiatrist.com._
-  - “Experiences with Discrimination May Raise Risk of Early Psychotic Episodes.” (May 30, 2025). _NYU News._
+  - [“NYU Study Links Experiences with Discrimination to Early Psychosis in Young Adults of Color”](https://jbhe.com/2025/06/nyu-study-links-experiences-with-discrimination-to-early-psychosis-in-young-adults-of-color/) (June 9, 2025). _The Journal of Blacks in Higher Education._
+  - [Interview segment.](https://www.instagram.com/p/DKeqlTUNJzQ/) (June 4, 2025). _SiriusXM Doctor Radio, “Psychiatry” with Dr. Jessica Stern._
+  - [“Beyond Juneteenth: The Mental Health Crises Facing Black Youth”](https://jbhe.com/2025/06/nyu-study-links-experiences-with-discrimination-to-early-psychosis-in-young-adults-of-color/) (June 2, 2025). _Psychiatrist.com._
+  - [“Experiences with Discrimination May Raise Risk of Early Psychotic Episodes.”](https://www.nyu.edu/about/news-publications/news/2025/may/experiences-with-discrimination-may-raise-risk-of-psychotic-epis.html) (May 30, 2025). _NYU News._
     
 <b>Cosse, J., Hudson, K., & Romanelli, M. (2024). Medicine, access, spirit, and survival: An intersectional look at concepts of health among a diverse sample of LGBTQ adults. _SSM-Qualitative Research in Health, 5,_ 100395.</b>
   - “An intersectional look at concepts of health among a diverse sample of LGBTQ adults.” (February 2, 2024). _Fordham GSS News._
