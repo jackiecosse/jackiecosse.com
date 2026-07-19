@@ -1,5 +1,5 @@
 ---
-title: "Deconstructing Latinx racial paradigms : cross-cultural Deconstructing Latinx racial paradigms : cross-cultural constructions of race and their impact on Dominican-American constructions of race and their impact on Dominican-American racial identity"
+title: "Deconstructing Latinx racial paradigms : cross-cultural constructions of race and their impact on Dominican-American constructions of race and their impact on Dominican-American racial identity"
 collection: publications
 category: masters_thesis
 permalink: /publication/2016-cosse-masters-thesis
