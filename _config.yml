@@ -95,7 +95,7 @@ teaching_category:
   courses:
     title: 'Courses Taught'
   guest_lectures:
-    title: 'Guest Lectures'
+    title: 'Select Guest Lectures'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
