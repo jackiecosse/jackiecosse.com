@@ -25,11 +25,11 @@ redirect_from:
   - [“Experiences with Discrimination May Raise Risk of Early Psychotic Episodes.”](https://www.nyu.edu/about/news-publications/news/2025/may/experiences-with-discrimination-may-raise-risk-of-psychotic-epis.html) (May 30, 2025). _NYU News._
     
 <b>Cosse, J., Hudson, K., & Romanelli, M. (2024). Medicine, access, spirit, and survival: An intersectional look at concepts of health among a diverse sample of LGBTQ adults. _SSM-Qualitative Research in Health, 5,_ 100395.</b>
-  - “An intersectional look at concepts of health among a diverse sample of LGBTQ adults.” (February 2, 2024). _Fordham GSS News._
-  - “PhD Student Jackie Cosse Receives APHA Research Award.” (Nov 9, 2023). _NYU Silver Newsroom._
+  - [“PhD Student Jackie Cosse Receives APHA Research Award.”](https://socialwork.nyu.edu/news/2023/jackie-cosse-apha-award.html) (Nov 9, 2023). _NYU Silver Newsroom._
+  - [“An intersectional look at concepts of health among a diverse sample of LGBTQ adults.”](https://gss.news.fordham.edu/faculty/an-intersectional-look-at-concepts-of-health-among-a-diverse-sample-of-lgbtq-adults/) (February 2, 2024). _Fordham GSS News._
 
 ## Additional Press & Media
-  - “NYU Study Sees ‘Unexpectedly High’ Rates of Police Violence Against Young Adults in U.S.” (April 21, 2026). NYU Silver Newsroom.
-  - “PhD Candidate Jackie Cosse Explores Criminalization of IPV Survivors.” (October 15, 2025). NYU Silver Newsroom.
+  - [“NYU Study Sees ‘Unexpectedly High’ Rates of Police Violence Against Young Adults in U.S.”](https://www.nyu.edu/about/news-publications/news/2026/april/nyu-study-sees--unexpectedly-high--rates-of-police-violence-agai.html) (April 21, 2026). NYU Silver Newsroom.
+  - [“PhD Candidate Jackie Cosse Explores Criminalization of IPV Survivors.”](https://socialwork.nyu.edu/news/2025/cosse-explores-criminalization-of-ipv-survivors.html) (October 15, 2025). NYU Silver Newsroom.
   - “The carceral state: Incarceration and the role of social work in the system.” (Invited interview; Fall 2023). InDepth Magazine.   
   
