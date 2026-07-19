@@ -1,6 +1,7 @@
 ---
 title: "Love & Relationships"
 collection: teaching
+category: courses
 type: "Undergraduate course"
 permalink: /teaching/love-and-relationships
 venue: "New York University, Silver School of Social Work; open to all NYU Students"
