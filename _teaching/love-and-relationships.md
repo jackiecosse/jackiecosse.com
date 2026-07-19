@@ -9,5 +9,5 @@ date: 2026-09-01
 location: "New York, New York"
 ---
 Taught Fall 2024, 2025, and 2026. 
-<br>
+<br><br>
 **Instructor & Course Developer (rebuilt course from inherited 2023 syllabus).** This course examines the practice of love and relationships through a critical social work lens, emphasizing how intimacy, care work, and connection are shaped by structural power. Drawing on Black feminist thought, disability justice scholarship, and related critical frameworks, students analyze both dominant and counter-hegemonic narratives of love and relationships while exploring liberatory approaches to belonging. Course discussions and assignments are grounded in social work’s ethical commitments to relational practice, social justice, and the promotion of individual and collective well-being across practice contexts.
