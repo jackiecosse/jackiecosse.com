@@ -1,5 +1,5 @@
 ---
-title: "Love & Relationships"
+title: "Love and Relationships"
 collection: teaching
 category: courses
 type: "Undergraduate course"
