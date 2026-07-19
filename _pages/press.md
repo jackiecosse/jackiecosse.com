@@ -14,9 +14,9 @@ redirect_from:
   - [“Jackie Cosse, New York University – Rethinking Social Defeat”](https://www.npr.org/player/embed/fis-564572329-3937612d0077a23652a5bac638abc529/fis-564572329-3937612d0077a23652a5bac638abc529-enclosure-audio) (October 16, 2025). _National Public Radio (NPR), “The Academic Minute.”_
   - [“Systemic Social Factors May Increase the Risk of Psychotic Experiences”](https://www.healthday.com/healthpro-news/mental-health/systemic-social-factors-may-increase-the-risk-of-psychotic-experiences) (June 10, 2025). _HealthDay._
     - **Syndicated by:**
-      - _Neurology Advisor,_ June 12, 2026.
-      - _Physicians Weekly,_ June 11, 2026.
-      - _Modern Clinician,_ June 10, 2026.
+      - [_Neurology Advisor,_](https://www.neurologyadvisor.com/news/systemic-social-factors-may-increase-risk-psychotic-experiences/) June 12, 2026.
+      - [_Physicians Weekly,_](https://www.physiciansweekly.com/post/systemic-social-factors-may-increase-the-risk-of-psychotic-experiences) June 11, 2026.
+      - [_Modern Clinician,_](https://modernclinician.com/briefing/systemic-social-factors-may-increase-the-risk-of-psychotic-experiences/) June 10, 2026.
       - _MSN,_ June 10, 2026.
       - _Drugs.com,_ June 10, 2026.
   - [“NYU Study Links Experiences with Discrimination to Early Psychosis in Young Adults of Color”](https://jbhe.com/2025/06/nyu-study-links-experiences-with-discrimination-to-early-psychosis-in-young-adults-of-color/) (June 9, 2025). _The Journal of Blacks in Higher Education._
