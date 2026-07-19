@@ -29,7 +29,10 @@ redirect_from:
   - “PhD Student Jackie Cosse Receives APHA Research Award.” (Nov 9, 2023). _NYU Silver Newsroom._
 
 ### Additional Press & Media
+#### Research on Violence
   - “NYU Study Sees ‘Unexpectedly High’ Rates of Police Violence Against Young Adults in U.S.” (April 21, 2026). NYU Silver Newsroom.
+#### New York University Urban Doctoral Fellowship
   - “PhD Candidate Jackie Cosse Explores Criminalization of IPV Survivors.” (October 15, 2025). NYU Silver Newsroom.
+#### Smith College School for Social Work _InDepth_ Magazine
   - “The carceral state: Incarceration and the role of social work in the system.” (Invited interview; Fall 2023). InDepth Magazine.   
   
