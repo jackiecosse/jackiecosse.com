@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D New York University Silver School of Social Work, 2027 (expected)
+* Ph.D   New York University Silver School of Social Work, 2027 (expected)
 * M.S.W. Smith College School for Social Work, 2016
-* B.S. Amherst College, 2014 (Asian Languages and Civilizations, Japanese Concentration)
+* B.S.   Amherst College, 2014 (Asian Languages and Civilizations, Japanese Concentration)
 
 Publications
 ======
