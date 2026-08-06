@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Coverage of First-Author Publications
+### Coverage of First-Author Publications
 <b>1) Cosse, J.I., Amos, B. J., Prout, L., Downey, D. L., Kim, S., Secaira, S., Fedina, L., & DeVylder, J. E. (2025). Social Defeat and Psychosis in the United States: A Replication and Critical Reconceptualization. _Schizophrenia Bulletin, 52_(2), sbaf081.</b>
   - [“Jackie Cosse, New York University – Rethinking Social Defeat”](https://www.npr.org/player/embed/fis-564572329-3937612d0077a23652a5bac638abc529/fis-564572329-3937612d0077a23652a5bac638abc529-enclosure-audio) (October 16, 2025). _National Public Radio (NPR), “The Academic Minute.”_
   - [“Systemic Social Factors May Increase the Risk of Psychotic Experiences”](https://www.healthday.com/healthpro-news/mental-health/systemic-social-factors-may-increase-the-risk-of-psychotic-experiences) (June 10, 2025). _HealthDay._
