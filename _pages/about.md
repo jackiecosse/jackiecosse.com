@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! This site is currently undergoing construction, so check back soon for more updates."
+title: "Hello! This site is currently undergoing construction, so check back soon for additional updates."
 author_profile: true
 redirect_from: 
   - /about/
