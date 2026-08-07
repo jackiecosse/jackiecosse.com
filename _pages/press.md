@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Coverage of First-Author Publications
-<b>1) Cosse, J.I., Amos, B. J., Prout, L., Downey, D. L., Kim, S., Secaira, S., Fedina, L., & DeVylder, J. E. (2025). Social Defeat and Psychosis in the United States: A Replication and Critical Reconceptualization. _Schizophrenia Bulletin, 52_(2), sbaf081.</b>
+1) Cosse, J.I., Amos, B. J., Prout, L., Downey, D. L., Kim, S., Secaira, S., Fedina, L., & DeVylder, J. E. (2025). Social Defeat and Psychosis in the United States: A Replication and Critical Reconceptualization. _Schizophrenia Bulletin, 52_(2), sbaf081.
   - [“Jackie Cosse, New York University – Rethinking Social Defeat”](https://www.npr.org/player/embed/fis-564572329-3937612d0077a23652a5bac638abc529/fis-564572329-3937612d0077a23652a5bac638abc529-enclosure-audio) (October 16, 2025). _National Public Radio (NPR), “The Academic Minute.”_
   - [“Systemic Social Factors May Increase the Risk of Psychotic Experiences”](https://www.healthday.com/healthpro-news/mental-health/systemic-social-factors-may-increase-the-risk-of-psychotic-experiences) (June 10, 2025). _HealthDay._
     - **Syndicated by:**
@@ -25,7 +25,7 @@ redirect_from:
   - [“Experiences with Discrimination May Raise Risk of Early Psychotic Episodes.”](https://www.nyu.edu/about/news-publications/news/2025/may/experiences-with-discrimination-may-raise-risk-of-psychotic-epis.html) (May 30, 2025). _NYU News._
     - **Distributed by:** [_EurekaAlert!_](https://www.eurekalert.org/news-releases/1085709) American Association for the Advancement of Science (AAAS)
 
-<b>2) Cosse, J., Hudson, K., & Romanelli, M. (2024). Medicine, access, spirit, and survival: An intersectional look at concepts of health among a diverse sample of LGBTQ adults. _SSM-Qualitative Research in Health, 5,_ 100395.</b>
+2) Cosse, J., Hudson, K., & Romanelli, M. (2024). Medicine, access, spirit, and survival: An intersectional look at concepts of health among a diverse sample of LGBTQ adults. _SSM-Qualitative Research in Health, 5,_ 100395.
   - [“PhD Student Jackie Cosse Receives APHA Research Award.”](https://socialwork.nyu.edu/news/2023/jackie-cosse-apha-award.html) (Nov 9, 2023). _NYU Silver Newsroom._
   - [“An intersectional look at concepts of health among a diverse sample of LGBTQ adults.”](https://gss.news.fordham.edu/faculty/an-intersectional-look-at-concepts-of-health-among-a-diverse-sample-of-lgbtq-adults/) (February 2, 2024). _Fordham GSS News._
 
