@@ -32,10 +32,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% for post in site.presentations reversed %}
+    {% include archive-single-presentation-cv.html  %}
   {% endfor %}</ul>
   
 Work experience
