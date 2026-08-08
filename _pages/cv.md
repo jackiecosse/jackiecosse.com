@@ -24,7 +24,9 @@ Publications
 Presentations
 ======
 
-[TBA]
+<ul>{% for post in site.presentations reversed %}
+    {% include archive-single-presentation-cv.html %}
+  {% endfor %}</ul>
 
 Teaching
 ======
