@@ -1,11 +1,11 @@
-name: Scrape Talk Locations
+name: Scrape Presentation Locations
 
 on:
   push:
     paths:
-      - 'talks/**'
-      - '_talks/**'
-      - 'talkmap.ipynb'
+      - 'presentation/**'
+      - '_presentations/**'
+      - 'presentationmap.ipynb'
 
 jobs:
   build:
@@ -28,12 +28,12 @@ jobs:
 
     - name: Run Jupyter Notebook
       run: |
-        jupyter nbconvert --to notebook --execute talkmap.ipynb --output talkmap_out.ipynb
+        jupyter nbconvert --to notebook --execute presentationmap.ipynb --output presentationmap_out.ipynb
 
     - name: Commit changes
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add .
-        git commit -m "Automated update of talk locations" || echo "No changes to commit"
+        git commit -m "Automated update of presentation locations" || echo "No changes to commit"
         git push
