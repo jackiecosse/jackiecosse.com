@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Talks markdown generator for academicpages
+# Presentations markdown generator for academicpages
 #
-# Takes a TSV or CSV of talks with metadata and converts them for use with
+# Takes a TSV or CSV of presentations with metadata and converts them for use with
 # the academicpages GitHub Pages template.
-# Usage: python3 talks.py talks.tsv
-#        python3 talks.py talks.csv
-#        python3 talks.py talks.tsv _talks/
+# Usage: python3 presentations.py presentations.tsv
+#        python3 presentations.py presentations.csv
+#        python3 presentations.py presentations.tsv _presentations/
 #
 # Uses the Python standard library (csv) so it has no external dependencies.
 
@@ -31,7 +31,7 @@ def html_escape(text):
 def main(input_file, output_dir=None):
     if output_dir is None:
         script_dir = os.path.dirname(os.path.abspath(__file__))
-        output_dir = os.path.join(script_dir, "..", "_talks")
+        output_dir = os.path.join(script_dir, "..", "_presentations")
 
     os.makedirs(output_dir, exist_ok=True)
 
@@ -44,10 +44,10 @@ def main(input_file, output_dir=None):
             title = row.get("title", "").strip()
             url_slug = row.get("url_slug", "").strip()
             date = row.get("date", "").strip()
-            talk_type = row.get("type", "").strip()
+            presentation_type = row.get("type", "").strip()
             venue = row.get("venue", "").strip()
             location = row.get("location", "").strip()
-            talk_url = row.get("talk_url", "").strip()
+            presentation_url = row.get("presentation_url", "").strip()
             description = row.get("description", "").strip()
 
             if not title or not url_slug or not date:
@@ -59,12 +59,12 @@ def main(input_file, output_dir=None):
 
             md = "---\n"
             md += "title: \"" + title + "\"\n"
-            md += "collection: talks\n"
-            if len(talk_type) > 3:
-                md += 'type: "' + talk_type + '"\n'
+            md += "collection: presentations\n"
+            if len(presentation_type) > 3:
+                md += 'type: "' + presentation_type + '"\n'
             else:
-                md += 'type: "Talk"\n'
-            md += "permalink: /talks/" + date + "-" + url_slug + "\n"
+                md += 'type: "Presentation"\n'
+            md += "permalink: /presentations/" + date + "-" + url_slug + "\n"
             if venue:
                 md += 'venue: "' + venue + '"\n'
             md += "date: " + date + "\n"
@@ -72,8 +72,8 @@ def main(input_file, output_dir=None):
                 md += 'location: "' + location + '"\n'
             md += "---\n"
 
-            if talk_url:
-                md += "\n[More information here](" + talk_url + ")\n"
+            if presentation_url:
+                md += "\n[More information here](" + presentation_url + ")\n"
             if description:
                 md += "\n" + html_escape(description) + "\n"
 
@@ -84,7 +84,7 @@ def main(input_file, output_dir=None):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python3 talks.py <input_file> [output_dir]")
+        print("Usage: python3 presentations.py <input_file> [output_dir]")
         sys.exit(1)
     input_file = sys.argv[1]
     output_dir = sys.argv[2] if len(sys.argv) > 2 else None
