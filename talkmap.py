@@ -1,10 +1,10 @@
-# Leaflet cluster map of presentation locations
+# Leaflet cluster map of talk locations
 #
-# Run this from the _presentations/ directory, which contains .md files of all your
-# presentations. This scrapes the location YAML field from each .md file, geolocates it
+# Run this from the _talks/ directory, which contains .md files of all your
+# talks. This scrapes the location YAML field from each .md file, geolocates it
 # with geopy/Nominatim, and uses the getorg library to output data, HTML, and
 # Javascript for a standalone cluster map. This is functionally the same as the
-# #presentationmap Jupyter notebook.
+# #talkmap Jupyter notebook.
 import frontmatter
 import glob
 import getorg
@@ -15,7 +15,7 @@ from geopy.exc import GeocoderTimedOut
 TIMEOUT = 5
 
 # Collect the Markdown files
-g = glob.glob("_presentations/*.md")
+g = glob.glob("_talks/*.md")
 
 # Prepare to geolocate
 geocoder = Nominatim(user_agent="academicpages.github.io")
@@ -53,4 +53,4 @@ for file in g:
 
 # Save the map
 m = getorg.orgmap.create_map_obj()
-getorg.orgmap.output_html_cluster_map(location_dict, folder_name="presentationmap", hashed_usernames=False)
+getorg.orgmap.output_html_cluster_map(location_dict, folder_name="talkmap", hashed_usernames=False)

@@ -11,43 +11,35 @@ redirect_from:
 
 Education
 ======
-
 * Ph.D   New York University Silver School of Social Work, 2027 (expected)
 * M.S.W. Smith College School for Social Work, 2016
 * B.S.   Amherst College, 2014 (Asian Languages and Civilizations, Japanese Concentration)
 
----
-
 Publications
 ======
-
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
----
-
+  
 Presentations
 ======
 
-<ul>{% for post in site.presentations reversed %}
-    {% include archive-single-presentation-cv.html %}
-  {% endfor %}</ul>
-
----
+[TBA]
 
 Teaching
 ======
-
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
----
-
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
 Work experience
 ======
-
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
@@ -62,12 +54,9 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-
----
-
+  
 Skills
 ======
-
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -75,9 +64,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
----
-
 Service and leadership
 ======
-
 * Currently signed in to 43 different slack teams
