@@ -3,7 +3,8 @@ title: "Deconstructing Latinx racial paradigms : cross-cultural constructions of
 collection: publications
 category: masters_thesis
 permalink: /publication/2016-cosse-masters-thesis
-excerpt: 'A masters thesis and qualitative study examining how Dominican immigrants to the U.S. navigated shifting constructions of race from the D.R. to the U.S.; specifically, from constructions rooted in Spanish colonialism and entrenched anti-Blackness/anti-Haitianism, to constructions shaped by Black-American experience and U.S. racial history. Participants discussed being differently categorized, navigating the racial landscape of the U.S. and its differences from that of the D.R., and the impacts of both on mental health, challenging treatments of Latine identity as a singular, monolithic category. <i>Recipient of the Smith College Alumni Association Thesis Award for Students of Color.</i>'
+excerpt: 'A masters thesis and qualitative study examining how Dominican immigrants to the U.S. navigated shifting constructions of race from the D.R. to the U.S.; specifically, from constructions rooted in Spanish colonialism and entrenched anti-Blackness/anti-Haitianism, to constructions shaped by Black-American experience and U.S. racial history. Participants discussed being differently categorized, navigating the racial landscape of the U.S. and its differences from that of the D.R., and the impacts of both on mental health, challenging treatments of Latine identity as a singular, monolithic category.
+**<i>Recipient of the Smith College Alumni Association Thesis Award for Students of Color.</i>**'
 date: 2016-08-01
 venue: 'Smith College School for Social Work'
 paperurl: 'https://jackiecosse.com/files/Cosse_Deconstructing_Latinx_Racial_Paradigms_2016.pdf'
