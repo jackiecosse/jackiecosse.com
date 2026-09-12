@@ -41,3 +41,12 @@
 .notice--warning {
   font-size: 1.5rem;
 }
+
+.page__content > h1:first-child {
+  font-size: 0.95rem;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #6b6b6b;
+  margin-top: -0.25em;
+}
