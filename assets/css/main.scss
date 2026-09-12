@@ -37,3 +37,10 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+.about-hero .page__title,
+.about-hero .author__name,
+.about-hero .author__pronouns,
+.about-hero .author__bio {
+  display: none;
+}
