@@ -2,7 +2,8 @@
 permalink: /
 title: "Jackie Cosse, LMSW"
 author_profile: true
-redirect_from: 
+classes: about-hero
+redirect_from:
   - /about/
   - /about.html
 ---
