@@ -11,8 +11,9 @@ redirect_from:
 ### Researcher | Educator | Advocate
 
 > Welcome! A few sections of this site are still under construction. In the meantime, check out my bio below, or the **Publications**, **Teaching**, and **Press and Media** tabs above.
-{: .notice--warning}
-
+{: ..notice--warning {
+  font-size: 1.5rem;
+}
 ## A little about me & my research:
 I am a PhD candidate at the New York University Silver School of Social Work and a licensed social worker with over a decade of combined advocacy, organizing, and clinical practice experience. Built on the assertion that "we can't understand what we can't see," my research uses critical quantitative approaches to subvert systems of power that render invisible the experiences of those furthest to the margins. My work primarily interrogates how carceral logics shape institutional responses to harm, tracing how coercion and control operate within and across micro, mezzo, and macro systems to criminalize survivors of intimate partner violence across intersections of race, gender, and sexuality. Grounded in Black abolition feminist traditions and queer disabled epistemologies, this research examines how policies that are framed as protective, such as mandatory arrest, often function instead as mechanisms of racialized, gendered, and sexuality-based punishment.
 
