@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**As I continue to update the site, please find a PDF version of my current CV here:**
+**As I continue to update the site, please find my full CV here:**
 [Link to Download my CV]({{ base_path }}/files/J_Cosse_CV_2026_08_31.pdf)
 
 Education
