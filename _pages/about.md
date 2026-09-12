@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Researcher | Educator | Advocate
+# Researcher  •  Educator  •  Advocate  •  Social Worker
 
 > Welcome! A few sections of this site are still under construction. In the meantime, check out my bio below, or the **Publications**, **Teaching**, and **Press and Media** tabs above.
 {: .notice--warning}
