@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Site currently undergoing construction 🚧 While this happens, feel free to check out my bio below & the above tabs on *Publications, Teaching,* and *Press and Media.*"
+title: "Hello! A few sections of my site are currently undergoing construction 🚧 In the meantime, check out my bio below & the tabs on *Publications, Teaching,* and *Press and Media.*"
 author_profile: true
 redirect_from: 
   - /about/
