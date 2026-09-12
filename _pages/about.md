@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Jackie Cosse, LMSW"
 author_profile: true
 classes: about-hero
 redirect_from:
