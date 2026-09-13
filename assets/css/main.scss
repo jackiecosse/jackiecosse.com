@@ -38,8 +38,8 @@
     "layout/json_cv"
 ;
 
-.page__content blockquote.notice--warning {
-  font-size: 1.5rem;
+.notice--warning {
+  font-size: 1.5rem !important;
 }
 
 .page__content > h1:first-child {
