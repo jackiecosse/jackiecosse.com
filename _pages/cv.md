@@ -9,8 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-**As I continue to update the site, please find my full CV here:**
-[Link to Download my CV]({{ base_path }}/files/J_Cosse_CV_2026_08_31.pdf)
+<div class="wordwrap" style="padding: 0.75em 1em; border-left: 3px solid currentColor; background-color: rgba(128,128,128,0.12);">
+<strong>As I continue to update the site, please find my full CV here:</strong><br>
+<a href="{{ base_path }}/files/J_Cosse_CV_2026_08_31.pdf">Link to Download my CV</a>
+</div>
 
 Education
 ======
