@@ -10,11 +10,4 @@ location: "New York, NY"
 ---
 <b>Instructor.</b> The purpose of this course is to explore and better understand, from a social work perspective, what behaviors, identities, practices, and experiences are categorized as socially deviant and taboo in society. Students utilize a diverse range of theories on deviance to collectively examine how social deviance and taboos are defined, determined, and socially/historically constructed. Emphasis is placed on how deviance has historically been used as a tool to systemically mark certain groups as “other,” denying them access to power, resources, and full social belonging.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[syllabus TBA}
