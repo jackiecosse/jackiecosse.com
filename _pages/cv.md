@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="wordwrap" style="padding: 0.75em 1em; border-left: 3px solid currentColor; background-color: rgba(128,128,128,0.12);">
+<div class="wordwrap" style="padding: 0.75em 1em; border-left: 3px solid currentColor; background-color: rgba(149, 117, 205, 0.14);">
 <strong>As I continue to update the site, please find my full CV here:</strong><br>
 <a href="{{ base_path }}/files/J_Cosse_CV_2026_08_31.pdf">Link to Download my CV</a>
 </div>
