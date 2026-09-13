@@ -1,11 +1,11 @@
 ---
-title: "Test Guest Lecture"
+title: "Social Justice and Design Strategies for Enhancing Participant Capacity"
 collection: teaching
 category: guest_lectures
-type: "Test"
+type: "MSW Research Methods"
 permalink: /teaching/test_guest
-venue: "Test University School of Testing"
-date: 2027-01-01
-location: "Test City, Testachutests"
+venue: "New York University Silver School of Social Work"
+date: 2026-11-01
+location: "New York, NY"
 ---
-This course prepares students for testing.
+Description TBA.
